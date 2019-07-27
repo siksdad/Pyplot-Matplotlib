@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  5 12:56:24 2017
 
 @author: siksdad
-Francis Kim
+Yoon Kim
 """
 
 
